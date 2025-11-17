@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Hammad Bin Yousaf**
+# Hammad Bin Yousaf
 
 **Data Scientist | Machine Learning Enthusiast | AI Innovator**  
 📍 Pakistan | 🌍 Open to Remote & On-Site Opportunities  
@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 **About Me**
+## **About Me**
 
 I am a **results-driven Data Scientist** with a strong foundation in **Python, Machine Learning, Data Visualization, and EDA**, backed by project-based learning and internships at **Forage, Awfera, Codanics, and CodeAlpha**.  
 Currently pursuing a **BSc in Computer Science** at the **University of the People**, where I continue to build expertise in AI, emerging technologies, and applied data science.
@@ -26,7 +26,7 @@ My passion lies in using AI to solve real-world problems—especially in areas t
 
 ---
 
-## 💼 **Experience**
+## **Experience**
 
 ### **Data Analyst — Forage (TCS Virtual Experience)**  
 *Aug 2025 — Sep 2025 | Remote*
@@ -53,7 +53,7 @@ My passion lies in using AI to solve real-world problems—especially in areas t
 
 ---
 
-## 🏆 **Awards & Achievements**
+## **Awards & Achievements**
 
 - **$2,100 Merit-Based Scholarship**, University of the People (2025)  
 - **Selected Team — AI Wrapper Competition 2025**, Ministry of IT Pakistan  
@@ -61,7 +61,7 @@ My passion lies in using AI to solve real-world problems—especially in areas t
 
 ---
 
-## 🧠 **Skills**
+## **Skills**
 
 ### **Languages & Libraries**
 - Python  
@@ -86,7 +86,7 @@ My passion lies in using AI to solve real-world problems—especially in areas t
 
 ---
 
-## 🧩 **Highlighted Projects**
+## **Highlighted Projects**
 
 ### 🔥 **Hikmah AI — Ministry of IT Pakistan**
 A multi-agent AI companion designed for **Dars-e-Nizami** students.  
@@ -106,14 +106,14 @@ Forecasting product demand to optimize inventory & marketing decisions.
 
 ---
 
-## 🤝 **Volunteering**
+## **Volunteering**
 
 ### **Mentor & Project Lead — Hikmah Innovations**
 Helping bridge classical Islamic studies with modern data science and AI to empower students with digital tools and relevant skills.
 
 ---
 
-## ✍️ **Publications**
+## **Publications**
 
 ### 📘 *Bridging 1,000 Years of Classical Islamic Learning with the Modern Tech World*
 Explores how Islamic scholarship can benefit from AI, data science, and technological innovation.
@@ -124,6 +124,6 @@ Explores how Islamic scholarship can benefit from AI, data science, and technolo
 
 I’m always open to collaboration, research, and AI-driven projects.
 
-📧 **Email:** [d.s.hammadyousaf@gmail.com](mailto:d.s.hammadyousaf@gmail.com)  
-💼 **LinkedIn:** /hammad-bin-yousaf-745809298  
-⭐ **Feel free to explore my repositories and drop a star if you like my work!**
+**Email:** [d.s.hammadyousaf@gmail.com](mailto:d.s.hammadyousaf@gmail.com)  
+**LinkedIn:** /hammad-bin-yousaf-745809298  
+**Feel free to explore my repositories and drop a star if you like my work!**
