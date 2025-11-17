@@ -1,4 +1,40 @@
-title: Hammad Bin Yousaf
+#title: Hammad Bin Yousaf
 #logo: /download/Hammad profile_3.png
-show_downloads: true
-theme: jekyll-theme-minimal
+#show_downloads: true
+#theme: jekyll-theme-minimal
+title: "Hammad Bin Yousaf"
+description: "Data Scientist | Machine Learning Enthusiast | AI Innovator"
+url: "https://hammad-binyousaf.github.io"
+baseurl: ""
+
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+author:
+  name: "Hammad Bin Yousaf"
+  email: "d.s.hammadyousaf@gmail.com"
+  github: "hammad-binyousaf"
+  linkedin: "hammad-bin-yousaf-745809298"
+
+# Navigation links (optional for Jekyll themes that support it)
+nav_links:
+  - name: "Home"
+    url: "/"
+  - name: "Projects"
+    url: "/#projects"
+  - name: "Skills"
+    url: "/#skills"
+  - name: "Experience"
+    url: "/#experience"
+  - name: "Contact"
+    url: "/#contact"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Google Analytics (optional)
+google_analytics: ""
